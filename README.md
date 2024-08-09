@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranay Policherla</h1>
 <h3 align="center">Software Engineer with a focus on AI/ML technologies. Currently a Trainee at SpectoV, working on assistive tech solutions. Passionate about leveraging cutting-edge technology to solve real-world challenges.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmepranay" alt="itsmepranay" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
